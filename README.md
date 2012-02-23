@@ -6,5 +6,5 @@ Requires Node to be available.
 
 # Usage
 
-require_calls = Holmes.find('/path/to/file.js')
-require_calls #=> ['burrito', 'another']
+    require_calls = Holmes.find('/path/to/file.js')
+    require_calls #=> ['burrito', 'another']
